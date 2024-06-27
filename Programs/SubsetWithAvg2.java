@@ -47,8 +47,8 @@ public class Main{
 
 /*
 Output:
-3\ 
-10    20 40 60
+3
+20 40 60
 Average of array: 40.0
 All Subsets: [[], [20], [40], [20, 40], [60], [20, 60], [40, 60], [20, 40, 60]]
 Subsets with Average: [[40], [20, 60]]
